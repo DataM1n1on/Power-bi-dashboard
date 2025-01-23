@@ -1,1 +1,2 @@
 # Power-bi-dashboard
+The Power BI dashboard provides an analysis of gross sales data from 2016 to 2018 across various dimensions. It includes a pie chart for sales distribution by customer type, a line chart for sales trends by customer, and bar charts showing sales across business segments and regions. Key metrics like the standard deviation, count, and average of gross sales are summarized, while another chart highlights top product categories like Tires and Touring Bikes
